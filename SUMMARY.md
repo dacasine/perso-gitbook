@@ -25,4 +25,6 @@
 
 * [Introduction \(informatique\)](informatique/introduction-informatique.md)
 * [Software stack pour avocat connecté](informatique/applications-utiles-pour-travailler-vite-tres-vite.md)
+* [Keyboard Maestro](informatique/keyboard-maestro.md)
+* [Apple workflows sur iOS](informatique/apple-workflows-sur-ios.md)
 
