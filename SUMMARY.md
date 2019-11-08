@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Intro](README.md)
-* [Inclure un site web comme référence bibliographique avec Typinator](inclure-un-site-web-comme-reference-bibliographique-avec-typinator.md)
 
 ## Droit de la famille
 
@@ -27,4 +26,6 @@
 * [Software stack pour avocat connecté](informatique/applications-utiles-pour-travailler-vite-tres-vite.md)
 * [Keyboard Maestro](informatique/keyboard-maestro.md)
 * [Apple workflows sur iOS](informatique/apple-workflows-sur-ios.md)
+* [Typinator](typinator/README.md)
+  * [Inclure un site web comme référence bibliographique avec Typinator](typinator/inclure-un-site-web-comme-reference-bibliographique-avec-typinator.md)
 

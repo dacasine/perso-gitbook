@@ -104,6 +104,8 @@ Coûts à l'université
 
 ### Clauses générales
 
+> A titre liquidatif des relations patrimoniales entre époux, \[∙\] versera à \[∙\] une soulte de \[∙\].
+
 ### Création d'une cédule de registre
 
 ### Règlement d'administration et d'utilisation
