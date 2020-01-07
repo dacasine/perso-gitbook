@@ -11,6 +11,7 @@
 * [Liens](droit-de-la-famille/liens.md)
 * [LPP](droit-de-la-famille/lpp.md)
 * [Répartition des compétences APEA / Juge du fond](droit-de-la-famille/repartition-des-competences-apea-juge-du-fond.md)
+* [Annuaire des services de recouvrement de pension alimentaire](droit-de-la-famille/annuaire-des-services-de-recouvrement-de-pension-alimentaire.md)
 * [Arrondir des nombres](droit-de-la-famille/arrondir-des-nombres.md)
 
 ## Qualité & environnement
