@@ -126,17 +126,7 @@ description: >-
 
 ### Première écriture
 
-#### En cas d'accord présumé du conjoint adverse
-
-> M’appuyant sur l’accord présumé de l’épouse \(cf pièce 2\), je vous adresse la présente demande unilatérale en divorce en sollicitant la tenue d’une audience destinée à vérifier le consentement de l’épouse et de tenter la conciliation sur les effets du divorce, en prenant note que mon client entend demander ce qui suit sur le fond :
-
-#### Après l'échéance du délai d'attente
-
-> Plaise au Président du Tribunal d’arrondissement de \[∙\] de constater l’existence d’un cas de divorce sous la forme d'une séparation d'une durée supérieure à deux ans et de tenter la conciliation sur les conséquences acces- soires du divorce, étant ici entendu que \[∙\] entend prendre les conclusions suivantes en cas d’échec de la conciliation :
-
-#### En cas de rupture du lien conjugal, mais avec accord présumé du conjoint adverse
-
-> Il est préalablement vérifié l’existence d’un motif de divorce sous la forme de l’accord de l’époux au divorce, subsidiairement pour rupture du lien conjugal, et la conciliation est tentée sur la base des conclusions suivantes :
+#### 
 
 ### Écritures suivantes
 
