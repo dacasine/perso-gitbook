@@ -2,7 +2,7 @@
 
 Bienvenue sur ces quelques pages sans prétention. J'y partage :
 
-* des [infos en droit suisse de la famille](droit-de-la-famille/introduction-droit-de-la-famille.md) ;
+* des [infos en droit suisse de la famille](droit-de-la-famille-praticiens/introduction-droit-de-la-famille.md) ;
 * des [infos pour les avocats intéressés par des certifications ISO et des labels territoriaux](qualite-and-environnement/untitled.md) ;
 * un [brin d'informatique](informatique/introduction-informatique.md).
 
