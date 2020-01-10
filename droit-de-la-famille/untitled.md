@@ -1,120 +1,4 @@
----
-description: >-
-  Cette page regroupe des modèles de conclusions en droit de la famille. Elles
-  sont destinées aux professionnels du droit et livrées ici sans aucune
-  garantie.
----
-
-# Conclusions en droit de la famille
-
-## Sommaire général
-
-* État civil
-  * Mariage
-    * Divorce
-      * Requête commune
-        * Accord conjoint complet
-        * Accord conjoint partiel ou uniquement sur le principe
-          * Principe de l'accord
-          * Conventions de procédure
-          * Réserves usuelles
-      * Demande unilatérale
-        * En cas d'accord présumé du conjoint adverse
-        * Après l'échéance du délai d'attente
-        * En cas de rupture du lien conjugal, mais avec l'accord du conjoint adverse
-      * Reconnaissance du jugement étranger
-        * A titre incident
-        * A titre principal
-        * Conclusions ampliatives
-    * Annulation du mariage
-      * D'office
-      * Sur requête
-      * Reconnaissance du jugement étranger
-        * A titre incident
-        * A titre principal
-        * Conclusions ampliatives
-  * Enfant
-    * Reconnaissance
-    * Annulation de la présomption
-    * Annulation de la reconnaissance
-    * Adoption
-      * ...
-  * Absence
-  * Décès
-  * Changement de prénom et de nom
-    * A titre administratif
-    * Concurremment à un changement de genre ou intersexualité
-  * Changement de genre ou intersexualité
-* Enfants
-  * Formules introductives
-    * En cas d'accord
-    * En l'absence d'accord
-  * Formule introductive pour chaque enfant
-  * Autorité parentale
-    * Autorité parentale conjointe
-      * Exclusions de l'autorité parentale conjointe
-        * Renouvellement de documents d'identité
-        * Voyages à l'étranger
-        * Engagements à demeurer à proximité \(attention au caractère excessif\)
-      * Adjonctions obligatoires
-        * Lieu de résidence administrative de l'enfant
-        * Bonifications pour tâches éducatives
-    * Autorité parentale exclusive
-    * Limitations générales de l'autorité parentale
-    * Déménagement en Suisse ou à l'étranger
-  * Prévention des enlèvements
-    * Mesures urgentes de prévention
-    * Conclusions sur le fond
-  * En cas d'enlèvement forcé
-    * Ordonner le retour de l'enfant
-    * Mesures urgentes de prévention
-  * Mesures générales sur la prise en charge des enfants
-    * First refusal agreement
-    * Formalisation du bon sens
-      * Interdiction de déshabiller l'enfant à l'arrivée
-      * Conventions de communication entre parents
-      * Souplesse dans l'exercice du droit aux relations parentales
-      * Engagements à demeurer à proximité \(attention au caractère excessif\)
-  * Droit de déterminer le lieu de résidence
-    * Garde exclusive
-    * Garde alternée
-  * Droit aux relations personnelles
-    * Formule standard romande
-    * Formule standard alémanique
-    * Ajout d'un jour par semaine
-    * Durant les vacances et jours fériés
-      * Demie de toutes les vacances de l'enfant
-      * \[∙\] semaines durant l'été et la demie de toutes les autres vacances de l'enfant
-  * Entretien de l'enfant
-    * Garde exclusive
-    * Garde alternée
-    * Perpétuation à la majorité
-    * Allocations familiales
-    * Allocations de famille
-    * Rentes
-    * Indexation
-    * Bases de calcul 
-    * Entretien convenable
-    * Enfants majeurs
-* Régime matrimonial
-  * Clauses générales
-  * Transferts immobiliers
-  * Création d'une cédule de registre
-  * Maintien de la copropriété et règlement d'administration et d'utilisation
-  * Contribution équitable au sens de l'art. 165 I CC
-  * Contribution équitable au sens de l'art. 165 II CC
-  * Clause liquidatrice
-* Prévoyance professionnelle
-* Entretien entre époux
-  * Modification à l'âge de la retraite du crédirentier
-* Clauses de médiation
-* Clauses de modification
-* Autres clauses
-* Frais d'intervention et de justice
-
-## État civil
-
-### 
+# Conclusions
 
 ## Annulation du mariage
 
@@ -126,7 +10,17 @@ description: >-
 
 ### Première écriture
 
-#### 
+#### En cas d'accord présumé du conjoint adverse
+
+> M’appuyant sur l’accord présumé de l’épouse \(cf pièce 2\), je vous adresse la présente demande unilatérale en divorce en sollicitant la tenue d’une audience destinée à vérifier le consentement de l’épouse et de tenter la conciliation sur les effets du divorce, en prenant note que mon client entend demander ce qui suit sur le fond :
+
+#### Après l'échéance du délai d'attente
+
+> Plaise au Président du Tribunal d’arrondissement de \[∙\] de constater l’existence d’un cas de divorce sous la forme d'une séparation d'une durée supérieure à deux ans et de tenter la conciliation sur les conséquences acces- soires du divorce, étant ici entendu que \[∙\] entend prendre les conclusions suivantes en cas d’échec de la conciliation :
+
+#### En cas de rupture du lien conjugal, mais avec accord présumé du conjoint adverse
+
+> Il est préalablement vérifié l’existence d’un motif de divorce sous la forme de l’accord de l’époux au divorce, subsidiairement pour rupture du lien conjugal, et la conciliation est tentée sur la base des conclusions suivantes :
 
 ### Écritures suivantes
 

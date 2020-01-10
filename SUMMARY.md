@@ -1,24 +1,25 @@
 # Table of contents
 
 * [Intro](README.md)
+* [Droit de la famille \(particuliers\)](droit-de-la-famille-particuliers.md)
 
 ## Droit de la famille \(praticiens\)
 
-* [Introduction \(droit de la famille\)](droit-de-la-famille-praticiens/introduction-droit-de-la-famille.md)
-* [Conclusions en droit de la famille](droit-de-la-famille-praticiens/conclusions-droit-famille/README.md)
+* [Introduction \(droit de la famille\)](droit-de-la-famille/introduction-droit-de-la-famille.md)
+* [Conclusions en droit de la famille](droit-de-la-famille/untitled.md)
   * [État civil](droit-de-la-famille-praticiens/conclusions-droit-famille/etat-civil.md)
   * [Enfants](droit-de-la-famille-praticiens/conclusions-droit-famille/enfants.md)
   * [Régime matrimonial](droit-de-la-famille-praticiens/conclusions-droit-famille/regime-matrimonial.md)
   * [Prévoyance professionnelle](droit-de-la-famille-praticiens/conclusions-droit-famille/prevoyance-professionnelle.md)
   * [Entretien entre époux](droit-de-la-famille-praticiens/conclusions-droit-famille/entretien-entre-epoux.md)
   * [Clauses accessoires](droit-de-la-famille-praticiens/conclusions-droit-famille/clauses-accessoires.md)
-* [Liquider un régime matrimonial](droit-de-la-famille-praticiens/liquider-un-regime-matrimonial.md)
-* [Calculs d'entretien](droit-de-la-famille-praticiens/calculs-dentretien.md)
-* [Liens](droit-de-la-famille-praticiens/liens.md)
-* [LPP](droit-de-la-famille-praticiens/lpp.md)
-* [Répartition des compétences APEA / Juge du fond](droit-de-la-famille-praticiens/repartition-des-competences-apea-juge-du-fond.md)
+* [Liquider un régime matrimonial](droit-de-la-famille/liquider-un-regime-matrimonial.md)
+* [Calculs d'entretien](droit-de-la-famille/calculs-dentretien.md)
+* [Liens](droit-de-la-famille/liens.md)
+* [LPP](droit-de-la-famille/lpp.md)
+* [Répartition des compétences APEA / Juge du fond](droit-de-la-famille/repartition-des-competences-apea-juge-du-fond.md)
 * [Annuaire des services de recouvrement de pension alimentaire](droit-de-la-famille-praticiens/annuaire-des-services-de-recouvrement-de-pension-alimentaire.md)
-* [Arrondir des nombres](droit-de-la-famille-praticiens/arrondir-des-nombres.md)
+* [Arrondir des nombres](droit-de-la-famille/arrondir-des-nombres.md)
 
 ## Qualité & environnement
 
