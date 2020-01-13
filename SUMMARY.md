@@ -1,7 +1,12 @@
 # Table of contents
 
 * [Intro](README.md)
-* [Droit de la famille \(particuliers\)](droit-de-la-famille-particuliers.md)
+
+## Droit de la famille \(particuliers\) <a id="droit-de-la-famille-particuliers-1"></a>
+
+* [Workbook](droit-de-la-famille-particuliers-1/workbook/README.md)
+  * [Évaluer vos options fondamentales](droit-de-la-famille-particuliers-1/workbook/evaluer-vos-options-fondamentales.md)
+  * [Annoncer sa décision](droit-de-la-famille-particuliers-1/workbook/annoncer-sa-decision.md)
 
 ## Droit de la famille \(praticiens\)
 
